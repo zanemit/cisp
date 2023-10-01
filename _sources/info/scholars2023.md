@@ -8,10 +8,11 @@ Their ambitious projects focus on pressing climate issues on local and global sc
 ```{figure} images/cisp_map.png
 ---
 width: 100%
-name: 
 ---
 A representation of the scholar projects' geographical regions of focus. The two projects marked by an asterisk (*) investigate phenomena on a global scale
 ```
+
+---
 
 <div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #a2bbd4; margin: 10px 0px;">1.</div></div>
 
