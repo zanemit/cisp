@@ -24,6 +24,12 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+    
+    - name: Install dependencies
+      run: |
+        pip install jupyter-book
+        pip install numpydoc
+        pip install ghp-import
 
     # Build the book
     - name: Build the book
