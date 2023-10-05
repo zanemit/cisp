@@ -4,7 +4,6 @@ We are thrilled to introduce 15 teams of 74 Impact Scholars as part of our 2023 
 
 Their ambitious projects focus on pressing climate issues on local and global scales, as well as their societal impact.
 
-
 ```{figure} images/cisp_map.png
 ---
 width: 100%
