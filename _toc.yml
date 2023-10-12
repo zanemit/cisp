@@ -15,6 +15,7 @@ parts:
     title: Mentors
     sections:
     - file: info/mentoring_guidelines
+    title: Mentoring guidelines
 - caption: Research Outputs
   chapters:
   - file: output-guidelines/micropublications
