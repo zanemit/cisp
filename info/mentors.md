@@ -1,7 +1,7 @@
 # Mentors
 Mentors are **experienced scientists interested in supporting a group throughout the development of their research project** between October 2023 and January 2024.
 
-```{admonition} Mentor applications are open!
+```{admonition} A few mentor positions are still open!
 Apply here: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
 ```
 
