@@ -19,3 +19,7 @@ parts:
   chapters:
   - file: output-guidelines/micropublications
   - file: output-guidelines/seminar_presentations
+    title: Seminar presentations - 1
+  - file: output-guidelines/seminar_presentations2
+    title: Seminar presentations - 2
+
