@@ -18,8 +18,9 @@ parts:
 - caption: Research Outputs
   chapters:
   - file: output-guidelines/micropublications
-  - file: output-guidelines/seminar_presentations2
+  - file: output-guidelines/seminar_guidelines2
     title: Seminar presentations - 1
-  - file: output-guidelines/seminar_presentations
+  - file: output-guidelines/seminar_guidelines
     title: Seminar presentations - 2
-
+    sections:
+    - file: output-guidelines/seminar_presentations
