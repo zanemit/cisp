@@ -25,7 +25,7 @@ We highly encourage scholars to attend the seminar sessions of other teams as we
 Scholars **must sign up** for every seminar they intend to attend, including the session assigned to their own team, by filling out the respective registration forms [here](./seminar_presentations2.md). 
 The scholars who sign up for the seminar session their team is presenting at are automatically registered for the networking session with researchers from [CMIP](https://wcrp-cmip.org/) and [LEAP](https://leap.columbia.edu/) that will take place immediately after the presentations.
 
-However, it was not always possible to accommodate the timeslot preferences of everyone in a team. If your group's session falls during your night-time, we can sign you up for the networking part of another session as long as there is a time that works for you. Let us know by tagging `@CISP organizers` on Discord or email `outreach@climatematch.io`. 
+Note that it was not always possible to accommodate the timeslot preferences of everyone in a team. If your group's session falls during your night-time, we can sign you up for the networking part of another session as long as there is a time that works for you. Let us know by tagging `@CISP organizers` on Discord or email `outreach@climatematch.io`. 
 
 ## Resources: how to give a short research talk?
 - ["The Art of Selling Science: Presenting an engaging scientific talk" by Caitlin Grzeskowiak, PLOS Early Career Research Community](https://ecrcommunity.plos.org/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/)
