@@ -6,7 +6,7 @@ Team "Jintasaurus Skip Energico"
 
 Mentor: **Brittany Engle**
 
-```{figure} project14_summary.png
+```{figure} team-photos/project14_summary.png
 ---
 width: 100%
 ---
